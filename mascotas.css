@@ -1,0 +1,17 @@
+body {
+    background-color: #00aae4;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif; }
+
+h3 {
+    color: #101010;
+    font-size: 30px;
+}
+img{
+   width: 100px;
+   height: 80px;
+   border-style: solid;
+   border-color: black;
+   margin-left: 20px;
+   padding: 20px;
+}
